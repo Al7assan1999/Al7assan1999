@@ -11,7 +11,9 @@ Software engineer with 4+ years building backend-heavy systems for **banking** a
 
 ### Projects
 <!-- projects:start -->
-_New projects are on the way — check back soon._
+| Project | What it shows |
+|---|---|
+| [**ai-document-assistant**](https://github.com/Al7assan1999/ai-document-assistant) | Q&A over your PDFs with cited answers · ASP.NET Core (.NET 10), Angular, SQLite FTS5, Claude API |
 <!-- projects:end -->
 
 📫 [LinkedIn](https://www.linkedin.com/in/alhassan-hokan-226aa9263) · Open to Software Engineer / .NET backend roles (remote preferred)
