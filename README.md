@@ -16,6 +16,7 @@ Software engineer with 4+ years building backend-heavy systems for **banking** a
 | [**ai-document-assistant**](https://github.com/Al7assan1999/ai-document-assistant) | Q&A over your PDFs with cited answers · ASP.NET Core (.NET 10), Angular, SQLite FTS5, Claude API |
 | [**kie-transaction-screening**](https://github.com/Al7assan1999/kie-transaction-screening) | Bank transaction screening with Drools rules on KIE Server, authored in Business Central, called from ASP.NET Core · end-to-end tested in CI |
 | [**abp-microservices-shop**](https://github.com/Al7assan1999/abp-microservices-shop) | ABP Framework microservices · YARP gateway, RabbitMQ saga with outbox/inbox, PostgreSQL per service · end-to-end tested in CI |
+| [**billing-service**](https://github.com/Al7assan1999/billing-service) | Subscription billing · Clean Architecture, EF Core + SQL Server (sequences, filtered indexes), proration, VAT, PDF invoices · Testcontainers |
 <!-- projects:end -->
 
 📫 [LinkedIn](https://www.linkedin.com/in/alhassan-hokan-226aa9263) · Open to Software Engineer / .NET backend roles (remote preferred)
